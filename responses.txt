@@ -1,0 +1,2 @@
+this is where the search phrase goes; this is where the desired response goes
+each phrase must be; on a new line
